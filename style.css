@@ -1,0 +1,30 @@
+/* style.css recipe version */
+.header
+{
+    text-align:center;
+}
+.pasta
+{
+    background-color:rgb(138, 63, 63);
+    color:white;
+    text-align:center;
+    font-size:34px;
+    
+}
+
+.salad
+{
+    background-color:lightgreen;
+    text-align:center;
+    color:rgb(255, 208, 0);
+    font-size:36px;
+}
+
+.image
+{
+    display:flex;
+    align-items: center;
+    height: auto;
+    width: 300px;
+    justify-content: center;
+}
