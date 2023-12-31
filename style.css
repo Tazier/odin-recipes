@@ -1,7 +1,13 @@
 /* style.css recipe version */
 .header
 {
-    text-align:center;
+    
+    border-color:blue;
+    border:100px;
+    width:50%;
+    border-left-width: 200px;
+    margin: 0 auto;
+    background-color:goldenrod;
 }
 .pasta
 {
