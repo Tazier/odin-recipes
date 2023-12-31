@@ -1,13 +1,17 @@
 /* style.css recipe version */
+.body
+{
+    margin-left:45%;
+    margin-right:45%;
+}
+
 .header
 {
-    
+    text-align:center;
     border-color:blue;
     border:100px;
-    width:50%;
-    border-left-width: 200px;
-    margin: 0 auto;
     background-color:goldenrod;
+    margin-bottom:3em;
 }
 .pasta
 {
@@ -28,9 +32,6 @@
 
 .image
 {
-    display:flex;
-    align-items: center;
-    height: auto;
     width: 300px;
-    justify-content: center;
+    height:auto;
 }
