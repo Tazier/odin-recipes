@@ -1,32 +1,38 @@
 /* style.css recipe version */
-.body
-{
-    margin-left:45%;
-    margin-right:45%;
-}
 
 .header
 {
     text-align:center;
+    font-size:38px;
+    border-style:groove;
     border-color:blue;
-    border:100px;
+    border-width:10px;
     background-color:goldenrod;
-    margin-bottom:3em;
+    margin: 0 35% 75px 45%;
 }
 .pasta
 {
-    background-color:rgb(138, 63, 63);
-    color:white;
-    text-align:center;
+    border-style:groove;
+    border-color:bisque;
+    border-width:15px;
+    background-color:white;
+    color:black;
     font-size:34px;
+    margin-left:30%;
+    padding: 10px;
+    justify-content: center;
     
 }
 
 .salad
 {
-    background-color:lightgreen;
+    border-style:groove;
+    border-color:pink;
+    border-width:15px;
+    margin-left:40%;
+    background-color:white;
     text-align:center;
-    color:rgb(255, 208, 0);
+    color:black;
     font-size:36px;
 }
 
@@ -34,4 +40,7 @@
 {
     width: 300px;
     height:auto;
+    margin: 50px;
+    margin-left:35%;
+    
 }
